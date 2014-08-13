@@ -2,12 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://GeorgeMac.github.io
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: https://www.google.com/search
 description:
+
+encoding: utf-8
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
